@@ -1,0 +1,27 @@
+{
+  "name": "warmup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myskam7/warmup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myskam7/warmup/issues"
+  },
+  "homepage": "https://github.com/myskam7/warmup#readme",
+  "dependencies": {
+    "amazon-product-api": "^0.4.4",
+    "inquirer": "^3.3.0",
+    "node-spotify-api": "^1.0.7",
+    "spotify-web-api-node": "^2.5.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
